@@ -1,12 +1,12 @@
 # Pensamento-computacional 🧠🖥️
 Repositório para atividades referente a matéria Pensamento computacional.
 
-### Atividade 1️⃣
+### Atividade 1️⃣: Decomposição
 **[Atividade da Unidade 1 _ Decomposição (Problemas Complexos)](https://www.canva.com/design/DAHDxwVwICY/Ewzw4Ej7Y3GJHiRkCoyjCA/edit)**
 
 <img src="https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/img/Atividade1.png?raw=true" alt="Imagem da atividade 1" style="border: 2px solid #000; padding: 5px;">
 
-### Atividade 2️⃣
+### Atividade 2️⃣: Pensamento Computacional Nas Universidades
 **[Relatório_09abril_PensamentoComputacionalnasUniversidades](https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/Relatorio_Aula_12-03-2026.md)**
 
 <img src="https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/img/Atividade2.png?raw=true)" alt="Imagem da atividade 2" style="border: 2px solid #000; padding: 5px;">
