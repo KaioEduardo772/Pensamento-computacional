@@ -11,7 +11,10 @@ Repositório para atividades referente a matéria Pensamento computacional.
 
 <img src="https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/img/Atividade2.png?raw=true)" alt="Imagem da atividade 2" style="border: 2px solid #000; padding: 5px;">
 
-### Atividade 3️⃣
+### Atividade 3️⃣: Lógica e Algorpitimos
 **[Atividade Prática de lógica e algoritmos_ 16/04/26](https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/atividade-logica-algoritmos-kaioEduardoMatosDeSouza.md)**
 
 <img src="https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/img/Atividade3.png?raw=true" alt="Imagem de atividade 3" style="border: 2px solid #000; padding: 5px;">
+
+### Atividade 4️⃣: Pensamento Computacional para Sistemas de Larga Escala
+**[Repositório da atividade 4 feita em grupo em um repositório único](https://github.com/KaioEduardo772/Projeto-Pensamento-Computacional-para-Sistemas-de-Larga-Escala)**
