@@ -19,5 +19,9 @@ Repositório para atividades referente a matéria Pensamento computacional.
 ### Atividade 4️⃣: Pensamento Computacional para Sistemas de Larga Escala
 **[Repositório da atividade 4 feita em grupo em um repositório único](https://github.com/KaioEduardo772/Projeto-Pensamento-Computacional-para-Sistemas-de-Larga-Escala)**
 
+<img src="https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/img/Atividade%204.png?raw=true" alt="Imagem de atividade 3" style="border: 2px solid #000; padding: 5px;">
+
 ### Atividade 5️⃣: Tratamento de Erros
 **[Pasta com a Atividade de tratamento de Erros](https://github.com/KaioEduardo772/Pensamento-computacional/tree/main/Tratamento%20de%20Erros)**
+
+<img src="https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/img/Atividade%205.png?raw=true" style="border: 2px solid #000; padding: 5px;">
