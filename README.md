@@ -25,3 +25,9 @@ Repositório para atividades referente a matéria Pensamento computacional.
 **[Pasta com a Atividade de tratamento de Erros](https://github.com/KaioEduardo772/Pensamento-computacional/tree/main/Tratamento%20de%20Erros)**
 
 <img src="https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/img/Atividade%205.png?raw=true" style="border: 2px solid #000; padding: 5px;">
+
+### Atividade 6️⃣: Organização de Dados
+
+**[Pasta com a atividade no repositório](https://github.com/KaioEduardo772/Pensamento-computacional/tree/main/Organiza%C3%A7%C3%A3o%20de%20Dados)**
+
+<img src="https://github.com/KaioEduardo772/Pensamento-computacional/blob/main/img/Atividade%206.png?raw=true" style="border: 2px solid #000; padding: 5px;">
